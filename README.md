@@ -22,4 +22,4 @@ A repo for learning how to use Git and Github. We will be contributing to a stor
 3. Make an edit to README.md
 4. Make a new folder titled "story2", with a new story in a .txt file.
 5. Finish the stories in all of the folders.
-6. Edit any grammatical/spelling errors.
+6. Edit any grammatical/spelling/style errors.
