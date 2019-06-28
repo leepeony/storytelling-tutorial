@@ -20,7 +20,13 @@ A repo for learning how to use Git and GitHub. We will be contributing to a stor
 0. Set up Git on your computer and explore the GitHub website
 1. Clone the repo to your local machine
 2. Create a branch
-3. Make an edit to README.md
-4. Make a new folder titled "story2", with a new story in a .txt file.
+3. Add your name to the README.md under "Cohort members"
+4. Make a new folder with a new story in a .txt file.
 5. Finish the stories in all of the folders.
 6. Edit any grammatical/spelling/style errors.
+
+
+### <b>Cohort members:</b>
+-
+- 
+-
