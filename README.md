@@ -1,5 +1,5 @@
 # storytelling-tutorial
-A repo for learning how to use Git and Github. We will be contributing to a story that will evolve as contributors make changes.
+A repo for learning how to use Git and GitHub. We will be contributing to a story that will evolve as contributors make changes.
 
 ### <b>What you will learn:</b>
 - Using the command line 
@@ -17,6 +17,7 @@ A repo for learning how to use Git and Github. We will be contributing to a stor
 
 
 ### <b>Tasks:</b>
+0. Set up Git on your computer and explore the GitHub website
 1. Clone the repo to your local machine
 2. Create a branch
 3. Make an edit to README.md
