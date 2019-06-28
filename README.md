@@ -10,7 +10,7 @@ A repo for learning how to use Git and GitHub.
 - Making a pull request
 
 ### <b>How to navigate:</b>
-- `README.md`: A markdown file that has info about the project (you're reading the rendered version now). Instructions and descriptions for the repo go here.
+- `README.md`: A markdown file that has info about the project (you're actually reading the rendered version now!). Instructions and descriptions for the repo go here.
   - read more about how to write markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - `stories`: A folder each members' story.
 - `assignments`: A folder with guides for tasks (see below)
